@@ -109,21 +109,6 @@ def lambda_handler(event, context):
 
 ![AWS S3 Lambda screenshot 2](github_images/image_2.png)
 
-### Figure 3
-
-![AWS S3 Lambda screenshot 3](github_images/image_3.png)
-
-### Figure 4
-
-![AWS S3 Lambda screenshot 4](github_images/image_4.png)
-
-### Figure 5
-
-![AWS S3 Lambda screenshot 5](github_images/image_5.png)
-
-### Figure 6
-
-![AWS S3 Lambda screenshot 6](github_images/image_6.png)
 
 ---
 
