@@ -360,7 +360,7 @@ Click Create bucket.
 
 *Figure 1: Amazon S3 Buckets page showing the created buckets*
 
-![Figure 1: Amazon S3 Buckets page showing the created buckets](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image1.png)
+![Figure 1: Amazon S3 Buckets page showing the created buckets](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_1.png)
 
 ## 1.2 Open the Created Bucket
 
