@@ -372,7 +372,7 @@ The bucket contents are displayed.
 
 *Figure 2: Inside the S3 bucket before adding objects*
 
-![Figure 2: Inside the S3 bucket before adding objects](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image2.png)
+![Figure 2: Inside the S3 bucket before adding objects](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_2.png)
 
 ## 1.3 Create a Folder
 
@@ -386,7 +386,7 @@ Open the newly created folder.
 
 *Figure 3: S3 folder app created inside the bucket*
 
-![Figure 3: S3 folder app created inside the bucket](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image3.png)
+![Figure 3: S3 folder app created inside the bucket](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_3.png)
 
 ## 1.4 Upload an Object
 
@@ -406,7 +406,7 @@ Wait for the upload to complete.
 
 *Figure 4: S3 folder showing the uploaded object*
 
-![Figure 4: S3 folder showing the uploaded object](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image4.png)
+![Figure 4: S3 folder showing the uploaded object](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_4.png)
 
 ## 1.5 Verify Uploaded Objects
 
@@ -418,7 +418,7 @@ Verify the object name, type, size and last-modified information.
 
 *Figure 5: S3 bucket showing multiple objects and the app folder*
 
-![Figure 5: S3 bucket showing multiple objects and the app folder](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image5.png)
+![Figure 5: S3 bucket showing multiple objects and the app folder](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_5.png)
 
 ## 1.6 Copy an Object
 
@@ -482,7 +482,7 @@ Save the changes.
 
 *Figure 6: S3 Static website hosting enabled and website endpoint displayed*
 
-![Figure 6: S3 Static website hosting enabled and website endpoint displayed](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image6.png)
+![Figure 6: S3 Static website hosting enabled and website endpoint displayed](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_6.png)
 
 ## 2.2 Configure Public Access
 
@@ -582,7 +582,7 @@ Save the dashboard.
 
 *Figure 7: CloudWatch CPUUtilization metric graph for an EC2 instance*
 
-![Figure 7: CloudWatch CPUUtilization metric graph for an EC2 instance](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image7.png)
+![Figure 7: CloudWatch CPUUtilization metric graph for an EC2 instance](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_7.png)
 
 ### 5. CPU Utilization Alarm with SNS
 
@@ -618,7 +618,7 @@ Confirm the subscription.
 
 *Figure 8: SNS email subscription showing Confirmed status*
 
-![Figure 8: SNS email subscription showing Confirmed status](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image8.png)
+![Figure 8: SNS email subscription showing Confirmed status](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_8.png)
 
 ## 5.3 Select the CPU Metric
 
@@ -640,7 +640,7 @@ Choose the required EC2 instance.
 
 *Figure 9: CloudWatch Alarms page showing the configured EC2 alarm*
 
-![Figure 9: CloudWatch Alarms page showing the configured EC2 alarm](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image9.png)
+![Figure 9: CloudWatch Alarms page showing the configured EC2 alarm](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_9.png)
 
 ## 5.4 Configure the Alarm Condition
 
@@ -690,13 +690,13 @@ The following screenshots were also supplied with the practical work. They are i
 
 *Figure 10: AWS KMS Customer managed key policy*
 
-![Figure 10: AWS KMS Customer managed key policy](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image10.png)
+![Figure 10: AWS KMS Customer managed key policy](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_10.png)
 
 ## 6.2 AWS CloudTrail – Event History
 
 *Figure 11: AWS CloudTrail Event history showing AWS management events*
 
-![Figure 11: AWS CloudTrail Event history showing AWS management events](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image11.png)
+![Figure 11: AWS CloudTrail Event history showing AWS management events](github_images/AWS_Cloud_Practical_Documentation_WITH_IMAGES/image_11.png)
 
 ### 7. Overall AWS Practical Flow
 
@@ -752,7 +752,7 @@ Verify that the index.html page is displayed.
 
 *Figure 1: Application running on the EC2 server*
 
-![Figure 1: Application running on the EC2 server](github_images/AWS_EC2_Application_Deployment_Documentation/image1.png)
+![Figure 1: Application running on the EC2 server](github_images/AWS_EC2_Application_Deployment_Documentation/image_1.png)
 
 ### 2. Static IP Allocation to a Server
 
@@ -776,11 +776,11 @@ Verify that the IP remains the same after server restart.
 
 *Figure 2: EC2 instances and IP address details*
 
-![Figure 2: EC2 instances and IP address details](github_images/AWS_EC2_Application_Deployment_Documentation/image2.png)
+![Figure 2: EC2 instances and IP address details](github_images/AWS_EC2_Application_Deployment_Documentation/image_2.png)
 
 *Figure 3: Static/Elastic IP configuration*
 
-![Figure 3: Static/Elastic IP configuration](github_images/AWS_EC2_Application_Deployment_Documentation/image3.png)
+![Figure 3: Static/Elastic IP configuration](github_images/AWS_EC2_Application_Deployment_Documentation/image_3.png)
 
 ### 3. Create a Target Group
 
@@ -816,7 +816,7 @@ Verify that the targets show Healthy status.
 
 *Figure 4: Target group created with application targets*
 
-![Figure 4: Target group created with application targets](github_images/AWS_EC2_Application_Deployment_Documentation/image4.png)
+![Figure 4: Target group created with application targets](github_images/AWS_EC2_Application_Deployment_Documentation/image_4.png)
 
 ### 4. Create a Load Balancer
 
@@ -858,11 +858,11 @@ Open the DNS name in a browser and verify the application is accessible.
 
 *Figure 5: Application Load Balancer configuration and DNS name*
 
-![Figure 5: Application Load Balancer configuration and DNS name](github_images/AWS_EC2_Application_Deployment_Documentation/image5.png)
+![Figure 5: Application Load Balancer configuration and DNS name](github_images/AWS_EC2_Application_Deployment_Documentation/image_5.png)
 
 *Figure 6: Application accessed through the Load Balancer DNS name*
 
-![Figure 6: Application accessed through the Load Balancer DNS name](github_images/AWS_EC2_Application_Deployment_Documentation/image6.png)
+![Figure 6: Application accessed through the Load Balancer DNS name](github_images/AWS_EC2_Application_Deployment_Documentation/image_6.png)
 
 ### 5. Create a Launch Template
 
@@ -900,7 +900,7 @@ Verify that the Launch Template is created successfully.
 
 *Figure 7: EC2 instances launched using the configured application setup*
 
-![Figure 7: EC2 instances launched using the configured application setup](github_images/AWS_EC2_Application_Deployment_Documentation/image7.png)
+![Figure 7: EC2 instances launched using the configured application setup](github_images/AWS_EC2_Application_Deployment_Documentation/image_7.png)
 
 ### 6. Create Auto Scaling Group
 
@@ -997,7 +997,7 @@ Create the application.
 
 *Figure 1: Elastic Beanstalk Applications page showing the created application “myapp”.*
 
-![Figure 1: Elastic Beanstalk Applications page showing the created application “myapp”.](github_images/AWS_Elastic_Beanstalk/image1.png)
+![Figure 1: Elastic Beanstalk Applications page showing the created application “myapp”.](github_images/AWS_Elastic_Beanstalk/image_1.png)
 
 ### 6. Step 3 – Create the Environment
 
@@ -1013,7 +1013,7 @@ Provide an environment name.
 
 *Figure 2: Elastic Beanstalk application showing the created environment “Myapp-env”.*
 
-![Figure 2: Elastic Beanstalk application showing the created environment “Myapp-env”.](github_images/AWS_Elastic_Beanstalk/image2.png)
+![Figure 2: Elastic Beanstalk application showing the created environment “Myapp-env”.](github_images/AWS_Elastic_Beanstalk/image_2.png)
 
 ### 7. Step 4 – Select the Application Platform
 
@@ -1089,7 +1089,7 @@ Elastic Beanstalk begins provisioning the required AWS resources.
 
 *Figure 3: Elastic Beanstalk environment is being launched and AWS resources are being provisioned.*
 
-![Figure 3: Elastic Beanstalk environment is being launched and AWS resources are being provisioned.](github_images/AWS_Elastic_Beanstalk/image3.png)
+![Figure 3: Elastic Beanstalk environment is being launched and AWS resources are being provisioned.](github_images/AWS_Elastic_Beanstalk/image_3.png)
 
 ### 14. Step 11 – Wait for Environment Health
 
@@ -1113,7 +1113,7 @@ Verify that the deployed application is displayed correctly.
 
 *Figure 4: Successfully deployed web application accessed through the Elastic Beanstalk environment URL.*
 
-![Figure 4: Successfully deployed web application accessed through the Elastic Beanstalk environment URL.](github_images/AWS_Elastic_Beanstalk/image4.png)
+![Figure 4: Successfully deployed web application accessed through the Elastic Beanstalk environment URL.](github_images/AWS_Elastic_Beanstalk/image_4.png)
 
 ### 16. Result
 
@@ -1275,7 +1275,7 @@ Verify that the subnet group status becomes Complete.
 
 *Figure 1: Successfully created DB subnet group — mydata.*
 
-![Figure 1: Successfully created DB subnet group — mydata.](github_images/AWS_RDS_MySQL/image1.png)
+![Figure 1: Successfully created DB subnet group — mydata.](github_images/AWS_RDS_MySQL/image_1.png)
 
 ### 4. Step 2 – Create a Parameter Group
 
@@ -1299,7 +1299,7 @@ Modify individual parameters only when a specific configuration is required.
 
 *Figure 2: Custom MySQL parameter group — para-mydata.*
 
-![Figure 2: Custom MySQL parameter group — para-mydata.](github_images/AWS_RDS_MySQL/image2.png)
+![Figure 2: Custom MySQL parameter group — para-mydata.](github_images/AWS_RDS_MySQL/image_2.png)
 
 ### 5. Step 3 – Create the RDS MySQL Database
 
@@ -1349,7 +1349,7 @@ Wait until the status shows Available.
 
 *Figure 4: RDS MySQL database database-1 showing Available status and connectivity section.*
 
-![Figure 4: RDS MySQL database database-1 showing Available status and connectivity section.](github_images/AWS_RDS_MySQL/image3.png)
+![Figure 4: RDS MySQL database database-1 showing Available status and connectivity section.](github_images/AWS_RDS_MySQL/image_3.png)
 
 ### 7. Step 5 – Retrieve the Auto-generated Password
 
@@ -1409,7 +1409,7 @@ Test the connection.
 
 *Figure 3: TablePlus interface used for the MySQL database connection.*
 
-![Figure 3: TablePlus interface used for the MySQL database connection.](github_images/AWS_RDS_MySQL/image4.png)
+![Figure 3: TablePlus interface used for the MySQL database connection.](github_images/AWS_RDS_MySQL/image_4.png)
 
 ### 11. Step 9 – Connect and Verify
 
@@ -1486,7 +1486,7 @@ Verify that the subnet group status is Complete.
 
 *Figure 1: Successfully created PostgreSQL DB subnet group – mydata.*
 
-![Figure 1: Successfully created PostgreSQL DB subnet group – mydata.](github_images/AWS_RDS_PostgreSQL/image1.png)
+![Figure 1: Successfully created PostgreSQL DB subnet group – mydata.](github_images/AWS_RDS_PostgreSQL/image_1.png)
 
 ### 4. Step 2 – Create a PostgreSQL Parameter Group
 
@@ -1508,7 +1508,7 @@ Modify parameters only when a specific database configuration is required.
 
 *Figure 2: Custom PostgreSQL parameter group – mydata-par.*
 
-![Figure 2: Custom PostgreSQL parameter group – mydata-par.](github_images/AWS_RDS_PostgreSQL/image2.png)
+![Figure 2: Custom PostgreSQL parameter group – mydata-par.](github_images/AWS_RDS_PostgreSQL/image_2.png)
 
 ### 5. Step 3 – Create the RDS PostgreSQL Database
 
@@ -1544,7 +1544,7 @@ Create the database.
 
 *Figure 3: RDS PostgreSQL database – database-1, showing PostgreSQL engine and instance status.*
 
-![Figure 3: RDS PostgreSQL database – database-1, showing PostgreSQL engine and instance status.](github_images/AWS_RDS_PostgreSQL/image3.png)
+![Figure 3: RDS PostgreSQL database – database-1, showing PostgreSQL engine and instance status.](github_images/AWS_RDS_PostgreSQL/image_3.png)
 
 ### 6. Step 4 – Wait for Database Availability
 
@@ -1602,7 +1602,7 @@ Choose PostgreSQL as the database type.
 
 *Figure 4: TablePlus PostgreSQL connection interface with the RDS console visible in the background.*
 
-![Figure 4: TablePlus PostgreSQL connection interface with the RDS console visible in the background.](github_images/AWS_RDS_PostgreSQL/image4.png)
+![Figure 4: TablePlus PostgreSQL connection interface with the RDS console visible in the background.](github_images/AWS_RDS_PostgreSQL/image_4.png)
 
 ### 11. Step 9 – Enter Connection Details
 
@@ -1703,11 +1703,11 @@ Unmount the EFS file system when the practical is complete, if required.
 
 *Figure 1: EFS file system successfully created and available.*
 
-![Figure 1: EFS file system successfully created and available.](github_images/Aws-efs-iam-cli/image1.png)
+![Figure 1: EFS file system successfully created and available.](github_images/Aws-efs-iam-cli/image_1.png)
 
 *Figure 2: EFS mounted on the EC2 instance and verified with disk usage output.*
 
-![Figure 2: EFS mounted on the EC2 instance and verified with disk usage output.](github_images/Aws-efs-iam-cli/image2.png)
+![Figure 2: EFS mounted on the EC2 instance and verified with disk usage output.](github_images/Aws-efs-iam-cli/image_2.png)
 
 ### 2. IAM User Creation
 
@@ -1737,11 +1737,11 @@ Verify that the user can sign in or use the AWS CLI according to the permissions
 
 *Figure 3: IAM user creation screen with AmazonEC2FullAccess selected.*
 
-![Figure 3: IAM user creation screen with AmazonEC2FullAccess selected.](github_images/Aws-efs-iam-cli/image3.png)
+![Figure 3: IAM user creation screen with AmazonEC2FullAccess selected.](github_images/Aws-efs-iam-cli/image_3.png)
 
 *Figure 4: IAM user sign-in page.*
 
-![Figure 4: IAM user sign-in page.](github_images/Aws-efs-iam-cli/image4.png)
+![Figure 4: IAM user sign-in page.](github_images/Aws-efs-iam-cli/image_4.png)
 
 ### 3. IAM Group Creation and Add User
 
@@ -1773,7 +1773,7 @@ Verify the group's Permissions tab to confirm that the required policies are att
 
 *Figure 5: IAM user group showing the user added to the group.*
 
-![Figure 5: IAM user group showing the user added to the group.](github_images/Aws-efs-iam-cli/image5.png)
+![Figure 5: IAM user group showing the user added to the group.](github_images/Aws-efs-iam-cli/image_5.png)
 
 ### 4. IAM Policy Attached to EC2 Role for EC2–S3 Access
 
@@ -1809,7 +1809,7 @@ If a bucket-listing operation is not included in the policy, it may return Acces
 
 *Figure 6: EC2 instance using an assumed IAM role and testing S3 access from the CLI.*
 
-![Figure 6: EC2 instance using an assumed IAM role and testing S3 access from the CLI.](github_images/Aws-efs-iam-cli/image6.png)
+![Figure 6: EC2 instance using an assumed IAM role and testing S3 access from the CLI.](github_images/Aws-efs-iam-cli/image_6.png)
 
 ### 5. IAM User with EC2 Full Access and AWS CLI
 
@@ -1843,11 +1843,11 @@ Confirm that the command returns the expected EC2 instance information.
 
 *Figure 7: IAM access key retrieval screen. The secret value should be kept confidential.*
 
-![Figure 7: IAM access key retrieval screen. The secret value should be kept confidential.](github_images/Aws-efs-iam-cli/image7.png)
+![Figure 7: IAM access key retrieval screen. The secret value should be kept confidential.](github_images/Aws-efs-iam-cli/image_7.png)
 
 *Figure 8: AWS CLI configured and EC2 instance status successfully retrieved.*
 
-![Figure 8: AWS CLI configured and EC2 instance status successfully retrieved.](github_images/Aws-efs-iam-cli/image8.png)
+![Figure 8: AWS CLI configured and EC2 instance status successfully retrieved.](github_images/Aws-efs-iam-cli/image_8.png)
 
 
 ---
